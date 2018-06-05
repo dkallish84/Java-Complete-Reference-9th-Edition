@@ -9,7 +9,7 @@ class B extends A {
 
 	B(int a, int b) {
 		super.i = a;	// i in a
-		i = b;			// i in b
+		i = b;		// i in b
 	}
 
 	void show() {
